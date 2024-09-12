@@ -55,7 +55,7 @@ The purpose of this exercise is to engage in feature engineering and to produce 
 # Final Results
 Additional features to supplement the original dataset. 
 
-
+<img width="1274" alt="openai_extraction_progression" src="https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI/blob/769bf16e8e90d7ff74635457e62542115d22d3d2/Images/openai_extraction_progression.png">
 
 
 This analysis can pertain to questions such as:
