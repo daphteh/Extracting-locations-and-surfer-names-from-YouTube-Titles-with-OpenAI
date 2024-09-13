@@ -1,4 +1,4 @@
-# Extracting locations and surfer names from YouTube Titles leveraging OpenAI API
+# Extracting locations and surfer names from YouTube Titles with OpenAI API
 In this project, I extracted the locations and pro-surfers mentioned in the titles of YouTube videos I had previously [scrapped](https://github.com/daphteh/Scraping_Cleaning_EDA_Surfing_Videos/tree/a621dd743177ec2882fe509c1c138b4a9298a6c6).
 The purpose of this exercise is to engage in feature engineering and to produce variables / features that can be later used to examine questions such as what drives views.
 
