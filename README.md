@@ -14,7 +14,7 @@ The purpose of this exercise is to engage in feature engineering and to produce 
 39,287 titles of YouTube videos from 40 channels. Note that due to the size of the file, I only uploaded a sample. 
 
 
-# Methodology
+## Methodology
 <details>
 <summary> Step 0: Set up </summary>
       <br>
@@ -52,7 +52,7 @@ The purpose of this exercise is to engage in feature engineering and to produce 
 </details>
 
 
-# Final Results
+## Final Results
 Additional features to supplement the original dataset. 
 
 <img width="1274" alt="openai_extraction_progression" src="https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI/blob/769bf16e8e90d7ff74635457e62542115d22d3d2/Images/openai_extraction_progression.png">
