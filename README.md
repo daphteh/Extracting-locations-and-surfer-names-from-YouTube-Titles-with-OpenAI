@@ -7,6 +7,7 @@ The purpose of this exercise is to engage in feature engineering and to produce 
 #### Methods and Tools Used ####
 * OpenAI API
 * Regular expressions and NLP
+(code in notebook folder)
 
 
 
