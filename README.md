@@ -55,13 +55,13 @@ The purpose of this exercise is to engage in feature engineering and to produce 
 ## Final Results
 Additional features to supplement the original dataset. 
 
-<img width="1274" alt="openai_extraction_progression" src="https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI/blob/769bf16e8e90d7ff74635457e62542115d22d3d2/Images/openai_extraction_progression.png">
+<img width="1274" alt="Title_NER_OpenAI" src="https://github.com/daphteh/Extracting-locations-and-surfer-names-from-YouTube-Titles-with-OpenAI/blob/58ef1a48adcd51ebf004a425aa1f4dc3a0c5dc30/Images/Title_NER_OpenAI.png">
 
 
 This analysis can pertain to questions such as:
 - Does mentioning locations / pro surfers increase viewership? (spoiler alert: only certain places and people matter)
 - Does mentioning locations and pro-surfers in the titles increase views (***spoiler alert: Only specific locations and certain pros matter***)?
 - Do these channels (or pro surfers) feature specific locations more than others?
-- Which surfers are mentioned more on YouTube channels that are not their own? (indicator of their presence in the inddustry
+- Which surfers are mentioned more on YouTube channels that are not their own? (indicator of their presence in the industry
 
 <br>
